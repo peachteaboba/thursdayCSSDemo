@@ -1,0 +1,49 @@
+body{
+  /*background-color: red;*/
+}
+h1{
+  font-size: 5em;
+  color: red;
+}
+
+/* mac ---> ctrl + cmd + up/down */
+
+.div1{
+  width: 50vw;
+  height: 50vh;
+  background-color: blue;
+  margin-left: 3%;
+  margin-top: 7%;
+  position: absolute;
+
+}
+
+.div2{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+
+  position: absolute;
+  top: calc(50% - 50px);
+  left: calc(50% - 50px);
+
+
+}
+
+.div3{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: red;
+}
+
+
+
+
+
+
+
+
+/*end*/
